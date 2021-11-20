@@ -3,3 +3,5 @@ This is file
 <head></head>
 <body></body>
 </html>
+
+This is line 7.
